@@ -26,4 +26,5 @@ public class MonitorLockExample {
     public void task3(){
         System.out.println("task3");
     }
+
 }
